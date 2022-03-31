@@ -1,0 +1,72 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #333333;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Ubuntu', cursive;
+  text-shadow: 5px 5px 20px #;
+  font-size: 8rem;
+  color: #F2C94C;
+}
+
+button {
+  background-color: Transparent;
+}
+
+p {
+  font-size: 2rem;
+  color: #fff;
+  font-family: 'Roboto', cursive;
+  text-shadow: 1px 1px 2px #0E0E10;
+}
+
+.player1 {
+  color: #2F80ED;
+  filter: invert(37%) sepia(80%) saturate(1438%) hue-rotate(199deg) brightness(97%) contrast(91%);
+  text-shadow: 1px 1px 2px #0E0E10;
+}
+
+.player2 {
+  color: #EB5757;
+  filter: invert(49%) sepia(31%) saturate(4277%) hue-rotate(329deg) brightness(98%) contrast(88%);
+  text-shadow: 1px 1px 2px #0E0E10;
+}
+
+p.footer {
+  font-size: 1rem;
+  color: #fff;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', cursive;
+
+}
+
+a {
+ color: #F2C94C;
+}
+
+a:hover,
+a:focus {
+ color: #fff;
+}
